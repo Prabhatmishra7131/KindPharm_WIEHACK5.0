@@ -24,3 +24,27 @@ KindPharm addresses these challenges by providing a data-driven approach to drug
 4. **Streamlined Drug Design**: KindPharm streamlines the drug design process by providing researchers with actionable insights into the bioactivity of chemical compounds, facilitating faster decision-making and accelerating the development of new drugs.
 
 With KindPharm, researchers can optimize their drug discovery efforts, leading to more efficient development processes and ultimately, the discovery of novel therapeutics to improve human health.
+
+# KindPharm_WIEHACK5.0
+
+This repository contains the code for KindPharm, a project developed during WIEHACK 5.0. KindPharm is a [Streamlit](https://streamlit.io/) web application aimed at providing information about pharmaceutical drugs.
+
+## How to Run
+
+To run the KindPharm web application, follow these steps:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/Prabhatmishra7131/KindPharm_WIEHACK5.0.git
+2. **Install Dependencies:**
+   cd KindPharm_WIEHACK5.0
+   **Install required Python dependencies using pip:**
+   pip install -r requirements.txt
+3. **Run the Streamlit App:**
+   streamlit run KindPharm_app.py
+**This will be the Streamlit Server and you will see the ouput similar to:**
+You can now view your Streamlit app in your browser.
+
+Local URL: http://localhost:8501
+Network URL: http://<your_ip>:8501
