@@ -2,6 +2,7 @@
 
 ## Abstract
 The instructions/steps needed in order to run the app are all described below.
+
 KindPharm is a machine learning model developed by Team H14 (Team No-33) at WIEHACK5.0 IEEE BVP with the aim of revolutionizing drug discovery processes. By leveraging FDA-approved drug data, our model predicts the bioactivity of different chemical compounds on target enzymes and proteins within the human body. Traditional drug design often involves heavy investments of time and financial resources, with high failure rates during the research and development (R&D) phase. Our model seeks to streamline this process by efficiently analyzing a vast spectrum of available drugs and reducing the likelihood of R&D failures.
 
 ![KindPharm Logo](logo.png)
